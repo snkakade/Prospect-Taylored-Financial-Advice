@@ -1,0 +1,15 @@
+{
+  "name": "Taylored Financial Advice",
+  "short_name": "Taylored",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#06261d",
+  "theme_color": "#06261d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
